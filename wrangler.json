@@ -8,7 +8,7 @@
     {
       "binding": "DB",
       "database_name": "dream-construction-db",
-      "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID",
+      "database_id": "875c0c3f-a71f-42db-811f-d85db13e5488",
       "migrations_dir": "drizzle"
     }
   ]
