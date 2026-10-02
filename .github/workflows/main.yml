@@ -1,0 +1,4 @@
+npm ci
+npm run build
+npm run db:remote
+npm run deploy
